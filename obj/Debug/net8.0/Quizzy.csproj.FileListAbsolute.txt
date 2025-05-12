@@ -1,0 +1,151 @@
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\bin\Debug\net8.0\appsettings.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\bin\Debug\net8.0\Quizzy.staticwebassets.runtime.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\bin\Debug\net8.0\Quizzy.exe
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\bin\Debug\net8.0\Quizzy.deps.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\bin\Debug\net8.0\Quizzy.runtimeconfig.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\bin\Debug\net8.0\Quizzy.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\bin\Debug\net8.0\Quizzy.pdb
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\Quizzy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\Quizzy.AssemblyInfoInputs.cache
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\Quizzy.AssemblyInfo.cs
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\Quizzy.csproj.CoreCompileInputs.cache
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\Quizzy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\Quizzy.RazorAssemblyInfo.cache
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\Quizzy.RazorAssemblyInfo.cs
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\Quizzy.sourcelink.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\staticwebassets\msbuild.Quizzy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\staticwebassets\msbuild.build.Quizzy.props
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Quizzy.props
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Quizzy.props
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\scopedcss\bundle\Quizzy.styles.css
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\scopedcss\projectbundle\Quizzy.bundle.scp.css
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\Quizzy.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\refint\Quizzy.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\Quizzy.pdb
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\Quizzy.genruntimeconfig.cache
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\Quizzy\obj\Debug\net8.0\ref\Quizzy.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.csproj.AssemblyReference.cache
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.AssemblyInfoInputs.cache
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.AssemblyInfo.cs
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.csproj.CoreCompileInputs.cache
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.RazorAssemblyInfo.cache
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.RazorAssemblyInfo.cs
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.sourcelink.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\appsettings.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\Quizzy.staticwebassets.runtime.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\Quizzy.exe
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\Quizzy.deps.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\Quizzy.runtimeconfig.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\Quizzy.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\Quizzy.pdb
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\MailKit.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets\msbuild.Quizzy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets\msbuild.build.Quizzy.props
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Quizzy.props
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Quizzy.props
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\scopedcss\bundle\Quizzy.styles.css
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\scopedcss\projectbundle\Quizzy.bundle.scp.css
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.csproj.Up2Date
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\refint\Quizzy.dll
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.pdb
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.genruntimeconfig.cache
+C:\Users\Rayya\Pictures\Quizzy\DBS25006\quizzy project files\obj\Debug\net8.0\ref\Quizzy.dll
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.csproj.AssemblyReference.cache
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.GeneratedMSBuildEditorConfig.editorconfig
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.AssemblyInfoInputs.cache
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.AssemblyInfo.cs
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.csproj.CoreCompileInputs.cache
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.MvcApplicationPartsAssemblyInfo.cache
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.RazorAssemblyInfo.cache
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.RazorAssemblyInfo.cs
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.sourcelink.json
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.dll
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\refint\Quizzy.dll
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.pdb
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\appsettings.Development.json
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\appsettings.json
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\Quizzy.staticwebassets.runtime.json
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\Quizzy.staticwebassets.endpoints.json
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\Quizzy.exe
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\Quizzy.deps.json
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\Quizzy.runtimeconfig.json
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\Quizzy.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\Quizzy.pdb
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\Google.Protobuf.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\MailKit.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\MimeKit.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\MySql.Data.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\System.Text.Json.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\ZstdSharp.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\quizzy_db\DBS25006\quizzy project files\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\scopedcss\bundle\Quizzy.styles.css
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\scopedcss\projectbundle\Quizzy.bundle.scp.css
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets.build.json
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets.development.json
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets\msbuild.Quizzy.Microsoft.AspNetCore.StaticWebAssets.props
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets\msbuild.Quizzy.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets\msbuild.build.Quizzy.props
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Quizzy.props
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Quizzy.props
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets.pack.json
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.csproj.Up2Date
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\Quizzy.genruntimeconfig.cache
+E:\quizzy_db\DBS25006\quizzy project files\obj\Debug\net8.0\ref\Quizzy.dll

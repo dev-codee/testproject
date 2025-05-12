@@ -1,0 +1,134 @@
+﻿@model Quizzy.Models.Buisness_Models.mcq_model
+
+@{
+    var teacher = ViewBag.teacher as Quizzy.Models.Buisness_Models.Teacher;
+    var subject = ViewBag.subject as Quizzy.Models.Buisness_Models.subject_model;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update MCQs - Quizzy</title>
+
+    <!-- Fonts & Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="~/css/mainpage_teacher.css">
+    <link rel="stylesheet" href="~/css/studentMain.css">
+    <link rel="stylesheet" href="~/css/addMcq.css"> <!-- NEW CSS FILE -->
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="navbar-container">
+            <div class="navbar-brand">
+                <i class="fas fa-graduation-cap brand-icon"></i>
+                <h2>Quizzy</h2>
+            </div>
+            <div class="navbar-menu">
+                <div class="user-welcome">
+                    <i class="fas fa-user-circle user-icon"></i>
+                    <span>Welcome, @teacher.first_name @teacher.last_name</span>
+                </div>
+                <a href="/teacher/logOut" class="btn-logout"><i class="fas fa-sign-out-alt"></i> Log Out</a>
+            </div>
+        </div>
+    </nav>
+
+    <a href="/createQuiz/showMcqForUpdate" class="btn-go-back">
+        <i class="fas fa-arrow-left"></i> Go Back
+    </a>
+
+    <!-- Dashboard Info -->
+    <div class="content-wrapper">
+        <div class="dashboard-header">
+            <h1>Teacher Dashboard</h1>
+            <div class="course-badge">
+                <i class="fas fa-book-open"></i>
+                <span>Current Course: @subject.code - @subject.name</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- TempData messages -->
+    @if (TempData["Check"] != null)
+    {
+        <div style="color: #07fc03; font-size: 16px; text-align: center;">
+            @TempData["Check"]
+        </div>
+    }
+    @if (TempData["log"] != null)
+    {
+        <div style="color: red; font-size: 16px; text-align: center;">
+            @TempData["log"]
+        </div>
+    }
+
+    <!-- Sub Navigation -->
+    <!-- Main Content -->
+    <div class="mcq-page-wrapper">
+        <div class="mcq-form-box">
+            <h1 class="mcq-form-title">Update MCQ</h1>
+            <p class="mcq-form-subtitle">Fill in the question and answer options below</p>
+
+            <form asp-action="updateMcqData" asp-controller="createQuiz" method="post">
+                <input type="hidden" asp-for="mcq_id" />
+
+                <!-- Question -->
+                <input class="mcq-question-input" type="text" placeholder="Enter your question here..." asp-for="description" />
+
+                <!-- Options -->
+                <div class="mcq-options-grid">
+                    <div class="mcq-option-box">
+                        <div class="mcq-option-circle">A</div>
+                        <input class="mcq-option-input" type="text" placeholder="Option A" asp-for="opt1" />
+                    </div>
+                    <div class="mcq-option-box">
+                        <div class="mcq-option-circle">B</div>
+                        <input class="mcq-option-input" type="text" placeholder="Option B" asp-for="opt2" />
+                    </div>
+                    <div class="mcq-option-box">
+                        <div class="mcq-option-circle">C</div>
+                        <input class="mcq-option-input" type="text" placeholder="Option C" asp-for="opt3" />
+                    </div>
+                    <div class="mcq-option-box">
+                        <div class="mcq-option-circle">D</div>
+                        <input class="mcq-option-input" type="text" placeholder="Option D" asp-for="opt4" />
+                    </div>
+                </div>
+
+                <!-- Correct Answer Selection -->
+                <div class="mcq-correct-answer">
+                    <label class="mcq-correct-label">Select the Correct Answer</label>
+                    <select asp-for="corr_opt" class="mcq-select-answer">
+                        <option value="" disabled selected>Select Correct Option</option>
+                        <option value="A">A</option>
+                        <option value="B">B</option>
+                        <option value="C">C</option>
+                        <option value="D">D</option>
+                    </select>
+                </div>
+
+                <!-- Buttons -->
+                <div class="mcq-action-bar">
+                    <button class="mcq-btn mcq-btn-cancel" asp-action="quizCreate" asp-controller="createQuiz">Cancel</button>
+                    <button class="mcq-btn mcq-btn-submit" type="submit">
+                        Update MCQ <i class="fas fa-arrow-right"></i>
+                    </button>
+                </div>
+            </form>
+        </div>
+
+        <!-- Footer -->
+        <div class="dashboard-footer">
+            <p class="footer-message">Happy Teaching, @teacher.first_name @teacher.last_name!</p>
+            <p class="copyright">&copy; 2025 Quizzy. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
